@@ -1,7 +1,7 @@
 
 public class Helloworld {
 	public static void main(String[] age){
-//git测试
+//git测试一下
 		System.out.println("----欢迎进入欣知商城----");
 		System.out.println("主菜单>购买商品");
 		System.out.println("1.耐克T恤衫");
